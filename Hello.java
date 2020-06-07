@@ -20,7 +20,7 @@ public class Hello{
 			System.out.println("Thanks for the webhooks demonstration git examples..");
 			System.out.println("Thanks for the webhooks demonstration on 17-feb-2020..");
 			System.out.println("Thanks for the webhooks demonstration on 05-jun-2020..");
-			System.out.println("HELLO WORLD");
+			System.out.println("HELLO WORLD from GIT SCM trigger");
 			System.out.println("demo on webhooks - 28");
 		}
 	}
